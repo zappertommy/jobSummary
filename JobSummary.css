@@ -1,0 +1,31 @@
+#jobSummaryPanel {
+    padding-bottom: 50px;
+    width: 300px;
+}
+
+#jobSummaryPanel .field-editable .field-edit {
+    display: inline-block;
+    vertical-align: top;
+}
+
+#jobSummaryPanel textarea {
+    resize: vertical;
+}
+
+#jobSummaryPanel .field-val {
+    display: inline-block;
+}
+
+#jobSummaryPanel p.field-val {
+    width: 100%;
+}
+
+#jobSummaryPanel .field-btns {
+    padding-top: 5px;
+}
+
+#jobSummaryPanel select.form-control, 
+#jobSummaryPanel textarea.form-control, 
+#jobSummaryPanel input.form-control[type="text"] {
+    width: 100%;
+}
